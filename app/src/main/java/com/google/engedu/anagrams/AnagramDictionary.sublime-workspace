@@ -1,0 +1,406 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"n"
+			],
+			[
+				"pr",
+				"printout"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"start",
+				"startserver"
+			],
+			[
+				"on",
+				"onrequest"
+			],
+			[
+				"writ",
+				"writeableStream"
+			],
+			[
+				"wri",
+				"writeableStream"
+			],
+			[
+				"w",
+				"writeableStream"
+			],
+			[
+				"wi",
+				"writeableStream"
+			],
+			[
+				"read",
+				"readableStream"
+			],
+			[
+				"rea",
+				"readableStream"
+			],
+			[
+				"eve",
+				"eventEmitter"
+			],
+			[
+				"long",
+				"longjump"
+			],
+			[
+				"pirn",
+				"printStuff"
+			],
+			[
+				"lne",
+				"length_F"
+			],
+			[
+				"len",
+				"length_N"
+			],
+			[
+				"arr",
+				"arr_F"
+			],
+			[
+				"leng",
+				"length_F"
+			],
+			[
+				"s",
+				"scanf"
+			],
+			[
+				"D",
+				"D"
+			],
+			[
+				"prot",
+				"portrange"
+			],
+			[
+				"get",
+				"getPort"
+			],
+			[
+				"y",
+				"y_a"
+			],
+			[
+				"ma",
+				"main	main()"
+			],
+			[
+				"ex",
+				"Express"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"po",
+				"position"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"c",
+				"Set Syntax: C++"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/manoharreddy/Desktop/swapusingxor.cpp",
+		"/Users/manoharreddy/Desktop/untitled.cpp",
+		"/Users/manoharreddy/Desktop/chef.c",
+		"/Users/manoharreddy/Desktop/chef1.c",
+		"/Users/manoharreddy/Desktop/input.txt",
+		"/Users/manoharreddy/Desktop/videos/programmes node js/tutorials6.js",
+		"/Users/manoharreddy/Desktop/printout.py",
+		"/Users/manoharreddy/Desktop/videos/programmes node js/server.js",
+		"/Users/manoharreddy/Desktop/videos/programmes node js/tutorial7.js",
+		"/Users/manoharreddy/Desktop/rigidTransform.m",
+		"/Users/manoharreddy/Desktop/rigidTransform.py",
+		"/Users/manoharreddy/Desktop/printuser.py",
+		"/Users/manoharreddy/Desktop/tutorial5b.js",
+		"/Users/manoharreddy/Desktop/in.txt",
+		"/Users/manoharreddy/Desktop/tutorial14.js",
+		"/Users/manoharreddy/Desktop/server.js",
+		"/Users/manoharreddy/Desktop/tutorial10.js",
+		"/Users/manoharreddy/Desktop/tutorial9.js",
+		"/Users/manoharreddy/Desktop/tutorial8.js",
+		"/Users/manoharreddy/Desktop/tutorial7.js",
+		"/Users/manoharreddy/Desktop/tutorials6.js",
+		"/Users/manoharreddy/Desktop/tutorial5.js",
+		"/Users/manoharreddy/Desktop/callbackfunctions.js",
+		"/Users/manoharreddy/Desktop/tutorial2.js",
+		"/Users/manoharreddy/Desktop/app.js",
+		"/Users/manoharreddy/Desktop/quiverfunction.m",
+		"/Users/manoharreddy/Desktop/al.obj",
+		"/Users/manoharreddy/Desktop/airboat.obj",
+		"/Users/manoharreddy/Documents/openGL/openGLfirst.py",
+		"/Users/manoharreddy/Week/CHEFSQ.cpp",
+		"/Users/manoharreddy/Flask/others.txt",
+		"/Users/manoharreddy/Flask/first.py",
+		"/Users/manoharreddy/Desktop/myExpress/get-pip.py",
+		"/Users/manoharreddy/github/emojiui/main.js",
+		"/Users/manoharreddy/Desktop/emojiui-master/main.js",
+		"/Users/manoharreddy/Desktop/myExpress/views/index.jade",
+		"/Users/manoharreddy/Desktop/myExpress/app.js",
+		"/Users/manoharreddy/Desktop/electron-quick-start-master/main.js",
+		"/Users/manoharreddy/Desktop/myExpress/public/stylesheets/style.css",
+		"/Users/manoharreddy/Desktop/myExpress/views/layout.jade",
+		"/Users/manoharreddy/Desktop/helloExpress/app.js",
+		"/Users/manoharreddy/Desktop/magento.py",
+		"/Users/manoharreddy/Desktop/ieee.tex",
+		"/Users/manoharreddy/Desktop/octave/helix.m",
+		"/Users/manoharreddy/Desktop/octave/sample.m",
+		"/Users/manoharreddy/Desktop/openGLfirst.py",
+		"/Users/manoharreddy/Desktop/bisectionmethod.py",
+		"/Users/manoharreddy/Desktop/emoji/electron-quick-start/electron-quick-start/main.js",
+		"/Users/manoharreddy/Desktop/emoji/electron-quick-start/electron-quick-start/renderer.js",
+		"/Users/manoharreddy/Desktop/emoji/electron-quick-start/electron-quick-start/index.html",
+		"/Users/manoharreddy/Desktop/emoji/electron-quick-start/main.js",
+		"/Users/manoharreddy/Desktop/hello.cpp",
+		"/Users/manoharreddy/Desktop/untitled.sh",
+		"/Users/manoharreddy/Desktop/emojiui-master/package.json",
+		"/Users/manoharreddy/Desktop/emojiui-master/custom.css",
+		"/Users/manoharreddy/Desktop/ciel.py",
+		"/Users/manoharreddy/Desktop/Report/template2.tex",
+		"/Users/manoharreddy/Desktop/binary.py",
+		"/Users/manoharreddy/Desktop/example1.js",
+		"/Users/manoharreddy/Desktop/helloExpress/package.json",
+		"/Users/manoharreddy/Desktop/announce.js",
+		"/Users/manoharreddy/Desktop/legrange.m",
+		"/Users/manoharreddy/Desktop/graphics.m",
+		"/Users/manoharreddy/Downloads/A-simple-Search-Engine-in-Python-master/Search_engine.py",
+		"/Users/manoharreddy/Desktop/practice/to.txt",
+		"/Users/manoharreddy/Public/rem.text",
+		"/Users/manoharreddy/Desktop/xkcdpassword.com-master/index.html",
+		"/Users/manoharreddy/Desktop/xkcdpassword.com-master/js/ZeroClipboard.min.js",
+		"/Users/manoharreddy/Desktop/xkcdpassword.com-master/js/script.js",
+		"/Users/manoharreddy/Desktop/xkcdpassword.com-master/js/jquery.ambiance.js",
+		"/Users/manoharreddy/Desktop/xkcdpassword.com-master/sitemap.xml",
+		"/Users/manoharreddy/Desktop/xkcdpassword.com-master/README.md",
+		"/Users/manoharreddy/Desktop/xkcdpassword.com-master/googleb232ff42ce1cd8c3.html",
+		"/Users/manoharreddy/Desktop/stackinpy.py",
+		"/Users/manoharreddy/Desktop/classesinpy.py",
+		"/Users/manoharreddy/Desktop/searchingG_api.py",
+		"/Users/manoharreddy/Desktop/untitled.py",
+		"/Users/manoharreddy/Desktop/linkedlist.py",
+		"/Users/manoharreddy/helloExpress/app.js",
+		"/Users/manoharreddy/Desktop/binding.py",
+		"/Users/manoharreddy/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/manoharreddy/Desktop/goo.py",
+		"/Users/manoharreddy/Desktop/python_lists.py",
+		"/Users/manoharreddy/Desktop/rangeof.py",
+		"/Users/rajan/sqlmapproject-sqlmap-6ac5b6b/thirdparty/beautifulsoup/beautifulsoup.py",
+		"/Users/manoharreddy/Desktop/javascript/code.html",
+		"/Users/manoharreddy/Desktop/test.py",
+		"/Users/manoharreddy/Desktop/divison.py",
+		"/Users/manoharreddy/Desktop/doubt.txt",
+		"/Users/manoharreddy/Desktop/poster3.tex",
+		"/Users/manoharreddy/Desktop/poster2.tex",
+		"/Users/manoharreddy/Desktop/poster.tex",
+		"/Users/manoharreddy/Desktop/sample.tex",
+		"/Users/manoharreddy/Documents/Python_practice/insertionsort.py",
+		"/Users/manoharreddy/Documents/Python_practice/mybinary.py",
+		"/Users/manoharreddy/Documents/Python_practice/a.txt",
+		"/Users/manoharreddy/Documents/Python_practice/binarysearch.py",
+		"/Users/manoharreddy/Sites/phpmyadmin/config.inc.php",
+		"/Users/manoharreddy/Desktop/project.sql",
+		"/Users/manoharreddy/Sites/test.php",
+		"/Users/manoharreddy/Documents/Python_practice/mergesort.py",
+		"/Users/manoharreddy/Documents/Python_practice/quicksort.py",
+		"/Users/manoharreddy/Documents/Python_practice/untitled.py",
+		"/Users/manoharreddy/Documents/Python_practice/sample.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"comm",
+			"others",
+			"welcome to express",
+			"size"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "AnagramDictionary.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/android studio/anagrams_starter/app/src/main/java/com/google/engedu/anagrams/AnagramDictionary.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
